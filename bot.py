@@ -472,5 +472,4 @@ async def masscheck_admin(ctx, file: discord.Attachment):
     os.remove(valid_filename)
     os.remove(invalid_filename)
 
-bot.run('MTIzMzkyNDU3NjkyMTI1NTk0Ng.GaUPI4.7SbsYjhQFjMnKJlv_vR-babobDeLx08fxVPqvQ')
-# MTIzMzkyNDU3NjkyMTI1NTk0Ng.GaUPI4.7SbsYjhQFjMnKJlv_vR-babobDeLx08fxVPqvQ
+bot.run('YOUR_TOKEN_HERE')
